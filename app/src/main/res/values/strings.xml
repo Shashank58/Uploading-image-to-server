@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Liborg Admin</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="scan_isbn">Scan ISBN</string>
+    <string name="send">Send</string>
+</resources>
